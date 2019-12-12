@@ -14,4 +14,5 @@ var config = {
   
   
   var game = new Phaser.Game(config);
-  var destination = null;
+
+  var timer = 10;
